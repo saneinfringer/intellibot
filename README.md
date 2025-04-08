@@ -72,5 +72,5 @@ No third-party chatbot services used (OpenAI only).
 
 You must have a valid OpenAI API key to enable chatbot functionality.
 
-Developed by [Your Name]
+Developed by Ravi, Rohit, Rishabh, Samar
 GitHub: https://github.com/yourusername
